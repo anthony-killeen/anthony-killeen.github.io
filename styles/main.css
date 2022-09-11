@@ -109,3 +109,12 @@ a:hover {
   background-color: white;
   border-radius: none;
 }
+
+.questions {
+margin: 2% 20% 2% 20%;
+font-size: 15pt;
+}
+
+.to-top {
+  margin: 45%;
+}
