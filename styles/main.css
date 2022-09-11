@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(202, 189, 189);
+  background-color: white;
   margin: 0px;
 }
 
@@ -37,9 +37,23 @@ h1 {
   background-color: white;
 }
 
+.laptop {
+  border-radius: 10%;
+}
+
+ins:hover {
+  font-size: 1000%;
+  color: 
+}
+
 h3 {
   padding-bottom: 10px;
   padding-top: 10px;
+}
+
+.tech-blog {
+  font-size: 30px;
+  text-align: center;
 }
 
 a:link {
@@ -55,6 +69,11 @@ a:hover {
   text-decoration: solid;
 }
 
+.subheader {
+  font-size: 30px;
+  margin-top: -50px;
+}
+
 .footer {
   padding-top: 50px;
   padding-bottom: 10px;
@@ -62,4 +81,31 @@ a:hover {
   background: white;
   color: rgb(0, 115, 128);
   font-size: medium;
+}
+
+.tech-writing {
+  margin: auto;
+  width: 50%;
+  padding: 10px; 
+  background-color: white;
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+}
+
+.img-tech {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 15%;
+  background-color: white;
+}
+
+.kitten-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  background-color: white;
+  border-radius: none;
 }
